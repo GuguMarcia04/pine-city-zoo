@@ -166,7 +166,7 @@ input {
 }
 
 textarea {
-    width: 100px;
+    width: 100%px;
     height: 25px;
     margin: 12px 0;
     border: 1px solid white;
