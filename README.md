@@ -17,7 +17,7 @@ I’m building a digital profile for Pine City Zoo to practice:
 ✅ **Zoo Introduction Section**  
 ✅ **Animal & Exhibit List**  
 ✅ **Opening Hours & Contact Details**  
-🚧 **Next Steps:** Add Python-based features (e.g., ticket calculator, dynamic forms)
+
 
 ---
 
