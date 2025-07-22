@@ -14,16 +14,16 @@ I’m building a digital profile for Pine City Zoo to practice:
 
 ## Features
 
-✅ **Zoo Introduction Section**  
-✅ **Animal & Exhibit List**  
-✅ **Opening Hours & Contact Details**  
+✅ Zoo Introduction Section
+✅ Animal & Exhibit List 
+✅ Opening Hours & Contact Details  
 
 
 ---
 
 ## Why This Project?
 
-As part of my **Full Stack Development certificate**, I’m applying what I’ve learned in real-world-style projects.  
+As part of my Full Stack Development certificate, I’m applying what I’ve learned in real-world-style projects.  
 This helps me:
 
 - Build hands-on coding experience  
@@ -42,8 +42,8 @@ This helps me:
 
 ## About Me
 
-Hi, I’m **Gugu Nkosi** — an experienced admin and data capture professional with a growing passion for tech.  
-I hold a **certificate in Full Stack Development** and I’m expanding my skills in web development, coding, and automation.
+Hi, I’m Gugu Nkosi— an experienced admin and data capture professional with a growing passion for tech.  
+I hold a certificate in Full Stack Development and I’m expanding my skills in web development, coding, and automation.
 
 ---
 
